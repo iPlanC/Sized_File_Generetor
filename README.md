@@ -1,2 +1,2 @@
-# Sized_File_Generetor
-Allow you to generate a customized size file with customized context
+# 自定义大小文件生成器
+用定义的字符填充文件到固定大小
